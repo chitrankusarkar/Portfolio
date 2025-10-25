@@ -33,7 +33,7 @@ function Home2() {
                 <b className="purple">Web Technologies and Thinking about You</b> and
                 also in areas related to{" "}
                 <b className="purple">
-                  Blockchain.
+                  Investment Banking and Private Equity.
                 </b>
               </i>
               <br />
